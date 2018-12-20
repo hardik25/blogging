@@ -13,6 +13,6 @@ App created in React-Redux, for emulating a typical blogging site with dummy dat
 
 # Screenshot of the App: 
 
-![alt text](https://github.com/hardik25/song-details/blob/master/blog.PNG)
+![alt text](https://github.com/hardik25/song-details/blob/master/blog .PNG)
 
 
